@@ -3,6 +3,6 @@
 
 Estou aprendendo a criar site e agora vou gerenciar meus reposítorios!
 
-<a href="https://lucasmaxcrema.github.io/html-css/exerc%C3%ADcios/ex001/index.html">Executar o exercício 001</a>
+<a href="https://lucasmaxcrema.github.io/html-css/exercícios/ex001/index.html">Executar o exercício 001</a>
 
 Atualiza por favor!
